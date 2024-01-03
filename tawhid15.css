@@ -1,0 +1,19 @@
+h1 {
+    background-color: aquamarine;
+    color: brown;
+    width: 100%;
+    text-align: center;
+}
+h3 {
+    text-align: left;
+    color: antiquewhite;
+    background-color: blue;
+    width: 25%;
+}
+div {
+    height: 150px;
+    width:400px;
+    color: chartreuse;
+    background-color: darkblue;
+
+}
